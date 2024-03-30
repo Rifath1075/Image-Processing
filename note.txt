@@ -1,0 +1,1 @@
+Demo.java is the main cw file, and contains all the functions that I have worked on. default.jpg and default2.jpg are automatically loaded in, and the file names will need to be manually changed to load different images.
